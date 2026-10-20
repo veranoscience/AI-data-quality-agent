@@ -1,4 +1,4 @@
-# 🔎 Agent IA de qualité des données
+# Agent IA de qualité des données
 
 **Audit automatique de la qualité d'un vrai jeu de transactions e-commerce, interprété par un LLM (Mistral) et restitué dans un tableau de bord HTML interactif.**
 
