@@ -2,7 +2,7 @@
 
 **Audit automatique de la qualité d'un vrai jeu de transactions e-commerce, interprété par un LLM (Mistral) et restitué dans un tableau de bord HTML interactif.**
 
-Avant de calculer un chiffre d'affaires, de segmenter des clients ou d'entraîner un modèle, il faut savoir si les données sont fiables. Ce projet automatise ce contrôle : 19 contrôles explicites, un score de qualité sur 4 dimensions, des visualisations, puis un LLM qui explique les problèmes et propose un plan de nettoyage priorisé.
+Ce projet automatise ce contrôle : 19 contrôles explicites, un score de qualité sur 4 dimensions, des visualisations, puis un LLM qui explique les problèmes et propose un plan de nettoyage priorisé.
 
 ## Résultats sur les données réelles
 
